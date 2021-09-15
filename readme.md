@@ -1,6 +1,13 @@
 # Conteúdo ministrado
 ## Disciplina Interface Homem Máquina
 
+## Aula 01 10/08/2021
+- Apresentação da disciplina e Conteúdo Progrmático
+
+## Aula 02 17/08/2021
+- Conhecendo a estrutura HTML
+- Algumas tags
+
 ## Aula 03 24/08/2021
 - Trabalhando formularios em HTML, envio de dados através de POST e GET
 - Diferenças entre POS e GET
@@ -10,7 +17,7 @@
 - Trabalhando com PHP e HTML juntos
 
 ## Aula 05
-- Conhecendo sobre CSS.
-[Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- Conhecendo sobre CSS.__
+[Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)__
 [Tags CSS](https://www.w3schools.com/css/css_border.asp)
 
