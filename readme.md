@@ -17,7 +17,7 @@
 - Trabalhando com PHP e HTML juntos
 
 ## Aula 05
-- Conhecendo sobre CSS.__
-[Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)__
+- Conhecendo sobre CSS. <br/>
+[Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) <br/>
 [Tags CSS](https://www.w3schools.com/css/css_border.asp)
 
