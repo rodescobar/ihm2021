@@ -21,3 +21,6 @@
 [Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) <br/>
 [Tags CSS](https://www.w3schools.com/css/css_border.asp)
 
+
+## Aula 06 21/09/2021
+- Trabalhando com CSS e DIVs, estrutura site da UOL. <br/>
