@@ -24,3 +24,15 @@
 
 ## Aula 06 21/09/2021
 - Trabalhando com CSS e DIVs, estrutura site da UOL. <br/>
+
+
+## Aula 08 05/10/2021
+- Conhecendo bootstrap. <br/>
+
+
+## Aula 09 19/10/2021
+- Trabalhando com Bootstrap, container, row, labels...
+
+
+## Aula 10 26/00/2021
+- Trabalho cópia do Youtube
